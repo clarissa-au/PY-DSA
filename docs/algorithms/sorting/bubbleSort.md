@@ -22,4 +22,4 @@ SUMRESULT = bubbleSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
 
 ## Tests
 
-Testcases is provided in /test/utils/test_avgList.py. Use pytest to run it.
+Testcases is provided in \test\algorithms\sorting\test_bubblesort.py. Use pytest to run it.
