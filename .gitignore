@@ -1,0 +1,7 @@
+#ignore the parent project - this is a fork
+JS-DSA
+
+#ignore caches
+.pytest_cache
+__pycache__
+
