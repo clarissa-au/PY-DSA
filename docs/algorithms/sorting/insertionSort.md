@@ -9,7 +9,7 @@ Same speed as Bubble Sort, but it works and is easy to understand.
 def insertionSort(lst: list[float]) -> list[float]:
 ```
 
-Calculate the averate of floats in a list.
+Sort the list using insertion sort.
 
 ## Example
 

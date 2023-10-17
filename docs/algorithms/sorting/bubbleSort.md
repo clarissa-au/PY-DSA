@@ -9,7 +9,7 @@ Super slow at O(n^2) speed, but it works and is easy to understand.
 def bubbleSort(lst: list[float]) -> list[float]:
 ```
 
-Calculate the averate of floats in a list.
+Sort the list using bubble sort.
 
 ## Example
 
