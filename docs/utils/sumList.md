@@ -16,7 +16,7 @@ Calculate the sum of floats in a list.
 from pyDataStructAlgo import sumList
 
 NUMBERS = [1, 2, 3, 4, 5];
-SUMRESULT = sumList(numbers); // Returns 15
+SUMRESULT = sumList(numbers) # Returns 15
 ```
 
 ## Tests

@@ -16,7 +16,7 @@ Calculate the averate of floats in a list.
 from pyDataStructAlgo import sumlist
 
 NUMBERS = [1, 2, 3, 4, 5];
-SUMRESULT = sumlist(numbers); // Returns 3
+SUMRESULT = sumlist(numbers) # Returns 3
 ```
 
 ## Tests

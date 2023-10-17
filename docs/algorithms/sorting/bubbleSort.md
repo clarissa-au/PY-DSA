@@ -1,0 +1,25 @@
+# bubbleSort.py
+
+Bubblesort is (probably) the first sorting algorithm learned, and the first "real" algorithm that is in use learnt.
+Super slow at O(n^2) speed, but it works and is easy to understand.
+
+## Functions
+
+```python
+def bubbleSort(lst: list[float]) -> list[float]:
+```
+
+Calculate the averate of floats in a list.
+
+## Example
+
+```python
+from pyDataStructAlgo import bubbleSort
+
+NUMBERS = [4, 29, 57, 100, 3];
+SUMRESULT = bubbleSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
+```
+
+## Tests
+
+Testcases is provided in /test/utils/test_avgList.py. Use pytest to run it.
