@@ -12,4 +12,3 @@ Copyright (c) 2023 Clarissa Au
 ### Testing
 
 - pytest >= 7.4.2
-- pytest-timeout >= 2.2.0 (Some of the test entails calculation of big numbers)
