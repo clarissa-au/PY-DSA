@@ -7,7 +7,7 @@ Recall that the Fibonacci Sequence is defined as
     F(0) = 1
     F(1) = 1
 ```
- 
+
 Using this property, we can build a recursive Fibonacci function.
 
 A traditional way of calculating Fibonacci function works from F(terms), then F(terms - 1), etc, down to F(1).

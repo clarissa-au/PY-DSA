@@ -12,6 +12,8 @@ Using this property, we can build a recursive Fibonacci function.
 
 ## Usage
 
+**Warning: Unsafe for concurrency in default format!**
+
 ```python
 from pyDataStructAlgo import recursiveFibonacci
 
