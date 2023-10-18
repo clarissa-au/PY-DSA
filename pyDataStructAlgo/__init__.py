@@ -5,3 +5,4 @@ from .algorithms import insertionSort
 from .algorithms import countingSort
 from .algorithms import selectionSort
 from .algorithms import recursiveFibonacci
+from .algorithms import dynamicFibonacci

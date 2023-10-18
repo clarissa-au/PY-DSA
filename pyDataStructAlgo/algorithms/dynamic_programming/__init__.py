@@ -1,1 +1,2 @@
 from .recursivefibonacci import recursiveFibonacci
+from .dynamicfibonacci import dynamicFibonacci
