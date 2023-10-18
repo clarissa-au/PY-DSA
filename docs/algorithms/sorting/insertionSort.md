@@ -17,7 +17,7 @@ Sort the list using insertion sort.
 from pyDataStructAlgo import insertionSort
 
 NUMBERS = [4, 29, 57, 100, 3];
-SUMRESULT = insertionSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
+RESULT = insertionSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
 ```
 
 ## Tests

@@ -16,7 +16,7 @@ Sort the list using counting sort.
 from pyDataStructAlgo import countingSort
 
 NUMBERS = [1,2,3,4,5,6,1,2,3,4,5,6,1,2,3,4,5,6,1,2,3,4,5,6,1,2,3,4,5,6]
-SUMRESULT = countingSort(NUMBERS) # Returns  [1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6]
+RESULT = countingSort(NUMBERS) # Returns  [1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6]
 ```
 
 ## Tests

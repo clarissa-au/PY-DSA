@@ -17,7 +17,7 @@ Sort the list using bubble sort.
 from pyDataStructAlgo import bubbleSort
 
 NUMBERS = [4, 29, 57, 100, 3];
-SUMRESULT = bubbleSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
+RESULT = bubbleSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
 ```
 
 ## Tests

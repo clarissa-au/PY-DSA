@@ -16,7 +16,7 @@ Sort the list using selection sort.
 from pyDataStructAlgo import selectionSort
 
 NUMBERS = [4, 29, 57, 100, 3];
-SUMRESULT = selectionSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
+RESULT = selectionSort(NUMBERS) # Returns [3, 4, 29, 57, 100]
 ```
 
 ## Tests
