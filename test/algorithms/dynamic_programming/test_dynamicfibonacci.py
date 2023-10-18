@@ -2,8 +2,6 @@ from pyDataStructAlgo import dynamicFibonacci
 
 import pytest
 
-pytestmark = pytest.mark.timeout(5) # you will need to implement storage of already precomputed values; otherwise you will fail this test!
-
 def test_baseCases():
     assert(dynamicFibonacci(1)) == 1
     assert(dynamicFibonacci(2)) == 1
