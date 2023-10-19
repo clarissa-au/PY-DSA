@@ -14,6 +14,14 @@ A traditional way of calculating Fibonacci function works from F(terms), then F(
 In Dynamic Programming, we reverse that by calculating F(1), F(2) and so on.
 Threadwise the performance will be better than recursive Fibonacci, as one process is forked into 2 and then 4 for recursive case at the beginning while the dynamic one stays constant.
 
+## Functions
+
+```python
+def dynamicFibonacci(term: int) -> int:
+```
+
+Return the term-th number in the Fibonacci Sequence.
+
 ## Usage
 
 ```python

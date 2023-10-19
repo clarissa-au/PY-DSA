@@ -7,8 +7,16 @@ Recall that the Fibonacci Sequence is defined as
     F(0) = 1
     F(1) = 1
 ```
- 
+
 Using this property, we can build a recursive Fibonacci function.
+
+## Functions
+
+```python
+def recursiveFibonacci(term: int) -> int:
+```
+
+Return the term-th number in the Fibonacci Sequence.
 
 ## Usage
 
