@@ -11,5 +11,6 @@ from .algorithms import recursiveFibonacci
 from .algorithms import dynamicFibonacci
 from .algorithms import newtonSqrt
 from .algorithms import numericalFibonacci
+from .algorithms import fastExp
 
 from .utils import DSA_PHI
