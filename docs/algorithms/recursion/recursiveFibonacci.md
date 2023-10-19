@@ -33,4 +33,4 @@ F300 = recursiveFibonacci(300) # Returns 222232244629420445529739893461909967206
 
 **Warning: The values need to be computated is big! If you want to test using the default suite you must use a precomputated storage and not the naive method!**
 
-The test suite is avaliable at \test\algorithms\dynamic_programming\test_recursivefibonacci.py. Run it using pytests.
+The test suite is avaliable at \test\algorithms\recursion\test_recursivefibonacci.py. Run it using pytests.
