@@ -14,3 +14,4 @@ from .algorithms import numericalFibonacci
 from .algorithms import fastExp
 
 from .utils import DSA_PHI
+from .algorithms import DSA_PI

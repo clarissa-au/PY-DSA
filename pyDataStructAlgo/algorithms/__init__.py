@@ -7,3 +7,5 @@ from .recursion import fastExp
 from .dynamic_programming import dynamicFibonacci
 from .numerical import newtonSqrt
 from .numerical import numericalFibonacci
+
+from .numerical import DSA_PI
