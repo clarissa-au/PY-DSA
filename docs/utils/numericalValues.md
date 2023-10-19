@@ -1,6 +1,6 @@
 # numericalValues.py
 
-numericalValues.py defines constants that can be calculated by a simple calculation.
+numericalValues.py defines constants that can be calculated by a simple calculation without inputs. They define psuedo constants.
 
 ## Values
 
