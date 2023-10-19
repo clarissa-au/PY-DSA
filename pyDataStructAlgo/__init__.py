@@ -10,5 +10,6 @@ from .algorithms import selectionSort
 from .algorithms import recursiveFibonacci
 from .algorithms import dynamicFibonacci
 from .algorithms import newtonSqrt
+from .algorithms import numericalFibonacci
 
 from .utils import DSA_PHI

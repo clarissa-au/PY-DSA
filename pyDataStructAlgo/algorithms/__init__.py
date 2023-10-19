@@ -5,3 +5,4 @@ from .sorting import selectionSort
 from .recursion import recursiveFibonacci
 from .dynamic_programming import dynamicFibonacci
 from .numerical import newtonSqrt
+from .numerical import numericalFibonacci
