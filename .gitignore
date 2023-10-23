@@ -5,3 +5,6 @@ JS-DSA
 .pytest_cache
 __pycache__
 
+#ignore vscode stuff
+.vscode
+
