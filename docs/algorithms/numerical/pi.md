@@ -19,7 +19,7 @@ Using Nilakantha's series's n terms to estimate the value of Pi.
 ## Usage
 
 ```python
-from pyDataStructAlgo import DSA_PHI
+from pyDataStructAlgo import DSA_PI
 
 print(DSA_PI()) # 3.1415926535...
 ```
