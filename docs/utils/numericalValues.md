@@ -8,6 +8,8 @@ numericalValues.py defines constants that can be calculated by a simple calculat
 DSA_PHI() ~= 1.6180339887..
 ```
 
+$\phi = \frac{1+\sqrt{5}}{2}$
+
 ## Usage
 
 ```python
